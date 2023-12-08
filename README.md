@@ -211,4 +211,4 @@ Discover includes custom hooks for reusability, such as `useAxios` for form hand
 
 ## Acknowledgments
 
-Feel free to explore, enhance, and customize Discover for your own projects and needs. Enjoy blogging and reading on Discover!
+Feel free to explore, enhance, and customize Discover for your own projects and needs.
